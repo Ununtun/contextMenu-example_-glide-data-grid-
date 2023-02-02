@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+	background: #56d371;
+}
+.menu .menu-item {
+	padding: 0px 20px;
+	cursor: pointer;
+	line-height: 2.5;
+}
+.menu .menu-item:hover {
+	background-color: #16161b;
+}
